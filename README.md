@@ -36,8 +36,7 @@ Send Request to OpenAI API
 Generate AI Response
        ↓
 Display / Speak Response
- ```      
-
+```
 
 ## 🎯 Project Goal
 
