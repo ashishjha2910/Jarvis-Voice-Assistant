@@ -36,6 +36,18 @@ Generate AI Response
        ↓
 Display / Speak Response
        ↓
+
+## 🎯 Project Goal
+
+The goal of this project is to explore the development of AI-powered applications by integrating conversational AI, voice interaction, and cross-platform mobile development.
+
+## 🚀 Future Improvements
+
+- Add conversation history
+- Implement text-to-speech responses
+- Add customizable voice commands
+- Improve conversational context
+- Integrate additional APIs and tools
 Generate AI Response
        ↓
 Display / Speak Response
